@@ -1,5 +1,7 @@
 # robofriends-redux
-Tutorial for React
+
+Web page built using React.js as a part of the Zero to Mastery course but reimplemented logic using Redux.
+
 To run the project:
 
 1. Clone this repo
